@@ -12,3 +12,21 @@ Install dependencies:
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+### 🚀 Project structure:
+
+    streamlit-llm
+    ├── .streamlit
+    │   └── config.toml
+    ├── app                   
+    │   ├── main.py            
+    │   ├── utils.py              
+    │   └── ...                 
+    ├── assets
+    │   ├── x.png                         
+    │   └── z.png  
+    ├── data
+    ├── env
+    └── requirements.txt
+
+
